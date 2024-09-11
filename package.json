@@ -1,0 +1,17 @@
+{
+  "name": "email-templates",
+  "version": "1.0.0",
+  "main": "sendEmail.js.js",
+  "scripts": {
+    "start": "nodemon sendEmail.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "nodemailer": "^6.9.15",
+    "nodemon": "^3.1.4"
+  }
+}
